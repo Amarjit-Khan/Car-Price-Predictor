@@ -1,0 +1,8 @@
+Linear Regression --> 
+    RMSE: 16.901401794551948
+
+Decision Tree Regressor -->
+    RMSE: 7.776833609098665
+
+Random Forest Regressor -->
+    RMSE: 8.377523373846493
